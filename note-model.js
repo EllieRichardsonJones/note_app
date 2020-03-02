@@ -1,6 +1,6 @@
-function Note(text){
+function Note(text) {
     this.text = text;
-};
+}
 
 var note1 = new Note("Hello world!")
 
