@@ -1,4 +1,4 @@
-# Note app
+# Note app :memo:
 
 This app is based on the Makers Academy Week 7 afternoon challenge. 
 
